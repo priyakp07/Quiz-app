@@ -9,7 +9,7 @@ const questions = [
         ]
     },
     {
-    question: "Which is large desert in the world",
+    question: "Which is large country in the world",
         answers:[
             {text: "kalahari" , correct: "false"},
             {text: "gobi" , correct: "false"},
@@ -20,14 +20,14 @@ const questions = [
     {
         question: "Which is smallest conutry in the world",
             answers:[
-                {text: "vactican city" , correct: "false"},
-                {text: "bhutan" , correct: "true"},
+                {text: "vactican city" , correct: "true"},
+                {text: "bhutan" , correct: "false"},
                 {text: "nepal" , correct: "false"},
                 {text: "shri lanka" , correct: "false"}, 
         ]
     },
         {
-            question: "Which is smallest conutry in the world",
+            question: "Which is smallest continent in the world",
                 answers:[
                     {text: "asia" , correct: "false"},
                     {text: "australia" , correct: "true"},
